@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1028425880102",
+    "project_id": "lucas-n3",
+    "storage_bucket": "lucas-n3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028425880102:android:4898670fc228f966088ce7",
+        "android_client_info": {
+          "package_name": "com.catolica.google.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028425880102-e39pmbvaeff8kut3phtm6qsjfv6pso4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catolica.google.auth",
+            "certificate_hash": "b9a5d8ad14fa7ad79945ca6fdbacff5783a761e4"
+          }
+        },
+        {
+          "client_id": "1028425880102-hadu65rgqhar0k32pphtp8hsb2bnnjmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHMOqSBuWLvNHntUkakDM-GEAwkG-XnuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028425880102-dl888aval31i3to8koknrp8p7umb5rvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028425880102-m426h7di9ers274k53jnlltvdh71jd0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.catolica.google.auth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
